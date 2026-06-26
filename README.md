@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Vanshika</h1>
 
 <h3 align="center">
@@ -189,4 +189,3 @@ Aspiring Software Engineer | Full Stack MERN Developer | Problem Solver
 ✨ *Code. Learn. Build. Repeat.*
 
 </h3>
-```
