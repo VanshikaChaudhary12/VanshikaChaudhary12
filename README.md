@@ -1,125 +1,192 @@
 ```md
 <h1 align="center">Hi 👋, I'm Vanshika</h1>
-<h3 align="center">Aspiring Software Engineer | Full Stack MERN Developer | Problem Solver</h3>
+
+<h3 align="center">
+Aspiring Software Engineer | Full Stack MERN Developer | Problem Solver
+</h3>
 
 <p align="center">
-💻 Building scalable web applications <br>
-🚀 Passionate about Software Development & Open Source <br>
-📚 Currently mastering DSA and System Design
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Aspiring+Software+Engineer;React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications;Always+Learning+Something+New+🚀" />
+</p>
+
+<p align="center">
+<a href="https://github.com/VanshikaChaudhary12">
+<img src="https://img.shields.io/github/followers/VanshikaChaudhary12?label=Followers&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/VanshikaChaudhary12">
+<img src="https://img.shields.io/github/stars/VanshikaChaudhary12?affiliations=OWNER&style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=VanshikaChaudhary12&style=for-the-badge&color=blue" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-- 🎓 Final Year B.Tech Computer Science Student
-- 💼 Full Stack Developer (MERN Stack)
-- 🔭 Currently building scalable full-stack applications
-- 🌱 Learning **System Design, Advanced DSA & Cloud**
-- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, REST APIs**
-- 🎯 Goal: Become a Software Development Engineer (SDE)
+🎓 Final Year B.Tech Computer Science Student
+
+💼 Full Stack Developer (MERN Stack)
+
+🚀 Passionate about building scalable web applications
+
+📚 Currently learning **Advanced DSA, System Design & Cloud**
+
+💬 Ask me about **React.js, Node.js, Express.js, MongoDB, REST APIs, JWT Authentication**
+
+🎯 Looking for **Software Development Engineer (SDE)** opportunities
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
-### Programming Languages
-- C++
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- PHP
+<p align="center">
 
-### Frontend
-- React.js
-- Angular
-- Responsive Design
-- Figma
+<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,mysql,postgres,firebase,git,github,postman,vscode,html,css" />
 
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-- Socket.io
+</p>
+
+---
+
+# 🛠️ Core Skills
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Full Stack MERN Development
+- REST API Development
 - JWT Authentication
 - Role-Based Access Control (RBAC)
-
-### Databases
-- MongoDB
-- MySQL
-- PostgreSQL
-- Firebase
-
-### Tools & Platforms
-- Git
-- GitHub
-- Postman
-- VS Code
+- Socket.io
+- Responsive Web Design
+- Database Design
+- Agile Development
 
 ---
 
-## 📌 Featured Projects
+# 🌱 Currently Working On
 
-### 💬 Secure Chat Application
-- Real-time messaging using Socket.io
+- 📚 Solving DSA Problems Daily
+- 🚀 Building Production-Level MERN Applications
+- ☁️ Learning Cloud Computing
+- 🏗️ Exploring System Design
+
+---
+
+# 📌 Featured Projects
+
+## 💬 Secure Chat Application
+
+- Real-time private & group messaging
+- Socket.io integration
 - JWT Authentication
-- Group & Private Chats
-- MongoDB Database
+- MongoDB
+- React.js + Node.js
 
-### 🏥 Hospital Management System
+---
+
+## 🏥 Hospital Management System
+
 - Admin, Doctor & Patient Dashboards
-- Appointment Booking
-- Secure Authentication
+- Appointment Management
+- Authentication & Authorization
 - REST APIs
+- MongoDB
 
-### ⭐ Review & Feedback Portal
+---
+
+## ⭐ Review & Feedback Portal
+
 - Built during Full Stack Internship
 - MERN Stack
-- Sentiment Analysis
 - JWT Authentication
 - RBAC
-- Admin Analytics Dashboard
+- Sentiment Analysis
+- Analytics Dashboard
 
 ---
 
-## 📈 Currently Working On
+# 🏆 Certifications
 
-- 📚 Daily DSA Practice
-- 🚀 Advanced MERN Projects
-- ☁️ Cloud Computing
-- 🏗️ System Design
-
----
-
-## 🌟 Core Skills
-
-✔ Problem Solving
-
-✔ Object-Oriented Programming
-
-✔ REST API Development
-
-✔ Authentication & Authorization
-
-✔ Responsive UI Development
-
-✔ Database Design
-
-✔ Agile Development
+- IBM SQL for Data Science
+- Data Analysis with Python
+- Generative AI Fundamentals
+- Database Management Systems
+- NPTEL Cloud Computing (77%)
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Statistics
 
-📧 **Email:** vanshikalatiyan40@gmail.com
+<p align="center">
 
-💼 **LinkedIn:**  
-https://linkedin.com/in/vanshika-latiyan
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VanshikaChaudhary12&show_icons=true&theme=tokyonight"/>
 
-🐙 **GitHub:**  
-https://github.com/VanshikaChaudhary12
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshikaChaudhary12&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-⭐ *"Code with purpose. Learn continuously. Build solutions that matter."*
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VanshikaChaudhary12&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏅 Coding Profiles
+
+<p align="left">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</p>
+
+> Replace these links with your own profile URLs.
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/vanshika-latiyan">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:vanshikalatiyan40@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/VanshikaChaudhary12">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+
+✨ *Code. Learn. Build. Repeat.*
+
+</h3>
 ```
